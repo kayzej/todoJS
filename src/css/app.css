@@ -1,0 +1,99 @@
+body{
+	background-image: url("../img/background.png");
+	background-repeat: no-repeat;
+	margin-right: 50px;
+	margin-left: 50px;
+}
+
+h1{
+	color: white;
+}
+
+h3{
+	color: white;
+	width: auto;
+	display: inline;
+}
+
+form{
+	width: auto;
+	height: auto;
+}
+
+textarea.form-control{
+	width: 85%;
+	height: auto;
+}
+
+.btn-group{
+	display: inline;
+}
+
+.custom-col{
+	padding-right: 0px;
+	padding-left: 0px;
+}
+
+.custom-text{
+	width: auto;
+	color: white;
+	display: inline;
+	font-size: 150%;
+}
+
+.dropdown{
+	position: relative;
+	display: inline;
+}
+
+.form-control{
+	background-color: transparent;
+	display: inline;
+	width: auto;
+}
+
+.form-group{
+	margin-top: 15px;
+}
+
+.input-group-addon{
+	background: transparent;
+	height: auto;
+}
+
+.jumbotron{
+	background-color: white;
+	opacity: 0.5;
+}
+
+.labeldisp{
+	color: white;
+	display: inline;
+	width: auto;
+	text-align: left;
+	font-size: 150%;
+	font-weight: normal;
+}
+
+.labeledit{
+	background-color: transparent;
+	color: white;
+	display: inline;
+	width: auto;
+	text-align: left;
+	font-size: 150%;
+	font-weight: normal;
+}
+
+.labelholder{
+	text-align: left;
+	display: inline;
+	width: auto;
+}
+
+.vert{
+	width: auto;
+	height: auto;
+	display: inline;
+	vertical-align: top;
+}

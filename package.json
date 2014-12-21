@@ -1,0 +1,14 @@
+{
+  "name": "todoJS",
+  "version": "0.0.0",
+  "description": "App to dynamically create a todo list in the cloud",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "todo"
+  ],
+  "author": "kayzej",
+  "license": "ISC"
+}
